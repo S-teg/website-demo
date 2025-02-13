@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+}
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    color: purple;
+    margin: 40px;
+}
+.footer {
+    text-align: center;
+    font-size: small;
+    color: rgb(40, 151, 140);
+    padding: 20px;
+    margin: 20px;
+}
